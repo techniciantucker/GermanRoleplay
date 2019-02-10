@@ -1,6 +1,6 @@
 <meta>
 
-    <info author="Xendom" type="Gamemode" name="German Roleplay" version="3.0" />
+    <info author="Xendom" type="Gamemode" name="German Roleplay" version="0.9.9" />
 	
 	<!-- GANZ OBEN LASSEN!! -->
 	<script src="Script.lua" />
