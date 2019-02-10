@@ -1,0 +1,17 @@
+<map edf:definitions="editor_main">
+    <object id="object (SFNvilla001_CM) (1)" breakable="true" interior="0" alpha="255" model="9339" doublesided="false" scale="1" dimension="0" posX="1409.3" posY="-1646.4" posZ="13" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (SFNvilla001_CM) (2)" breakable="true" interior="0" alpha="255" model="9339" doublesided="false" scale="1" dimension="0" posX="1409.3" posY="-1646.4" posZ="14.4" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (SFNvilla001_CM) (3)" breakable="true" interior="0" alpha="255" model="9339" doublesided="false" scale="1" dimension="0" posX="1409.3" posY="-1646.4" posZ="15.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (SFNvilla001_CM) (5)" breakable="true" interior="0" alpha="255" model="9339" doublesided="false" scale="1" dimension="0" posX="1409.3" posY="-1646.4" posZ="16.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kb_planter_bush) (1)" breakable="true" interior="0" alpha="255" model="638" doublesided="false" scale="1" dimension="0" posX="1410.9" posY="-1653.2" posZ="13.2" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (kb_planter_bush) (2)" breakable="true" interior="0" alpha="255" model="638" doublesided="false" scale="1" dimension="0" posX="1414.3" posY="-1653.2" posZ="13.2" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (kb_planter_bush) (4)" breakable="true" interior="0" alpha="255" model="638" doublesided="false" scale="1" dimension="0" posX="1417.7" posY="-1653.2" posZ="13.2" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (kb_planter_bush) (5)" breakable="true" interior="0" alpha="255" model="638" doublesided="false" scale="1" dimension="0" posX="1419.1" posY="-1656.1" posZ="13.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (ugcarpark_SFe) (1)" breakable="true" interior="0" alpha="255" model="10010" doublesided="false" scale="1" dimension="0" posX="1354.6" posY="-1646.4" posZ="-75.3" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (SFNvilla001_CM) (6)" breakable="true" interior="0" alpha="255" model="9339" doublesided="false" scale="1" dimension="0" posX="1323" posY="-1680.8" posZ="-74.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (SFNvilla001_CM) (7)" breakable="true" interior="0" alpha="255" model="9339" doublesided="false" scale="1" dimension="0" posX="1323" posY="-1680.8" posZ="-73.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (SFNvilla001_CM) (8)" breakable="true" interior="0" alpha="255" model="9339" doublesided="false" scale="1" dimension="0" posX="1323" posY="-1680.8" posZ="-71.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (SFNvilla001_CM) (9)" breakable="true" interior="0" alpha="255" model="9339" doublesided="false" scale="1" dimension="0" posX="1323" posY="-1680.8" posZ="-70.4" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (SFNvilla001_CM) (10)" breakable="true" interior="0" alpha="255" model="9339" doublesided="false" scale="1" dimension="0" posX="1323" posY="-1680.8" posZ="-69" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (SFNvilla001_CM) (11)" breakable="true" interior="0" alpha="255" model="9339" doublesided="false" scale="1" dimension="0" posX="1323" posY="-1680.8" posZ="-67.6" rotX="0" rotY="0" rotZ="0"></object>
+</map>

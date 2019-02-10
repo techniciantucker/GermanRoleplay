@@ -1,0 +1,10 @@
+<map edf:definitions="editor_main">
+    <object id="object (ci_guardhouse1) (1)" breakable="true" interior="0" alpha="255" model="5837" doublesided="false" scale="1" dimension="0" posX="63.4" posY="-1532.9" posZ="5.7" rotX="0" rotY="0" rotZ="350.25"></object>
+    <object id="object (imy_compin) (1)" breakable="true" interior="0" alpha="255" model="2955" doublesided="false" scale="1" dimension="0" posX="62" posY="-1531.2" posZ="4.2" rotX="0" rotY="0" rotZ="80.75"></object>
+    <object id="object (bar_gatebar01) (1)" breakable="true" interior="0" alpha="255" model="966" doublesided="false" scale="1" dimension="0" posX="65.9" posY="-1529.8" posZ="3.9" rotX="0" rotY="0" rotZ="263"></object>
+    <object id="object (bar_gatebar01) (2)" breakable="true" interior="0" alpha="255" model="966" doublesided="false" scale="1" dimension="0" posX="60.1" posY="-1536.9" posZ="3.9" rotX="0" rotY="0" rotZ="83.246"></object>
+    <object id="object (strtbarrier01) (1)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="60.3" posY="-1536.1" posZ="4" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (strtbarrier01) (2)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="59.3" posY="-1544.4" posZ="4" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (strtbarrier01) (3)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="67" posY="-1522.2" posZ="4.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (strtbarrier01) (4)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="65.7" posY="-1530.7" posZ="3.9" rotX="0" rotY="0" rotZ="0"></object>
+</map>

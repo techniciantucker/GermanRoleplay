@@ -1,0 +1,15 @@
+<map edf:definitions="editor_main">
+    <object id="object (fencesmallb) (1)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="2940.8999" posY="-2048.5" posZ="3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fencesmallb) (2)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="2936.8" posY="-2048.5" posZ="3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fencesmallb) (3)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="2932.7" posY="-2048.5" posZ="3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fencesmallb) (4)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="2928.6001" posY="-2048.5" posZ="3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fencesmallb) (5)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="2924.5" posY="-2048.5" posZ="3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (parkbench1) (1)" breakable="false" interior="0" alpha="255" model="1280" doublesided="true" scale="1" dimension="0" posX="2940.6001" posY="-2048.8999" posZ="2.9" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (parkbench1) (2)" breakable="false" interior="0" alpha="255" model="1280" doublesided="true" scale="1" dimension="0" posX="2937.7" posY="-2048.8999" posZ="2.9" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (bollardlight) (1)" breakable="true" interior="0" alpha="255" model="1215" doublesided="false" scale="1" dimension="0" posX="2942.8" posY="-2054.8" posZ="2.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (2)" breakable="true" interior="0" alpha="255" model="1215" doublesided="false" scale="1" dimension="0" posX="2942.8" posY="-2048.8" posZ="2.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kb_planter_bush) (1)" breakable="true" interior="0" alpha="255" model="638" doublesided="false" scale="1" dimension="0" posX="2934.6001" posY="-2049" posZ="3.2" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (kb_planter_bush) (2)" breakable="true" interior="0" alpha="255" model="638" doublesided="false" scale="1" dimension="0" posX="2931.7" posY="-2049" posZ="3.2" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (parkbench1) (3)" breakable="false" interior="0" alpha="255" model="1280" doublesided="true" scale="1" dimension="0" posX="2928.5" posY="-2048.8999" posZ="2.9" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (bollardlight) (3)" breakable="true" interior="0" alpha="255" model="1215" doublesided="false" scale="1" dimension="0" posX="2927" posY="-2048.8999" posZ="2.6" rotX="0" rotY="0" rotZ="0"></object>
+</map>
