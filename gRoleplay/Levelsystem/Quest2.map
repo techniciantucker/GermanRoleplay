@@ -1,0 +1,6 @@
+<map edf:definitions="editor_main">
+    <object id="object (ap_jumbo_01) (1)" breakable="true" interior="0" alpha="255" model="1683" doublesided="false" scale="1" dimension="0" posX="264.39999" posY="2902.3" posZ="9.6" rotX="359.511" rotY="347.75" rotZ="280.394"></object>
+    <removeWorldObject id="removeWorldObject (des_ruin2_) (1)" radius="7.2342672" interior="0" model="3362" lodModel="0" posX="264.85156" posY="2893.1641" posZ="8.9375" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (torino_mic) (1)" radius="4.2733951" interior="0" model="3350" lodModel="0" posX="266.0625" posY="2879.2344" posZ="11.85156" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (d9_ramp) (3)" breakable="true" interior="9" alpha="255" model="3069" doublesided="false" scale="1" dimension="0" posX="315.79999" posY="1027.6" posZ="1947.9" rotX="347.5" rotY="359.488" rotZ="0.139"></object>
+</map>

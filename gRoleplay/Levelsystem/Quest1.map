@@ -1,0 +1,15 @@
+<map edf:definitions="editor_main">
+    <object id="object (compfukhouse2) (1)" breakable="true" interior="0" alpha="255" model="3590" doublesided="false" scale="1" dimension="0" posX="996.09998" posY="-2147.1001" posZ="14.8" rotX="0" rotY="0" rotZ="116"></object>
+    <object id="object (fencesmallb) (1)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="997.29999" posY="-2153.2" posZ="12.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fencesmallb) (2)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1001.5" posY="-2153.2" posZ="12.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fencesmallb) (3)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1005.7" posY="-2153.2" posZ="12.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (Plant_Pot_4) (1)" breakable="true" interior="0" alpha="255" model="949" doublesided="false" scale="1" dimension="0" posX="994.59998" posY="-2153.1001" posZ="13" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (Plant_Pot_12) (1)" breakable="true" interior="0" alpha="255" model="950" doublesided="false" scale="1" dimension="0" posX="993.20001" posY="-2153.7" posZ="12.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (Plant_Pot_3) (1)" breakable="true" interior="0" alpha="255" model="2195" doublesided="false" scale="1" dimension="0" posX="990.5" posY="-2144.7" posZ="13" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (sand_combush1) (1)" breakable="true" interior="0" alpha="255" model="864" doublesided="false" scale="1" dimension="0" posX="1003.1" posY="-2151.8999" posZ="12.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (sand_combush1) (2)" breakable="true" interior="0" alpha="255" model="864" doublesided="false" scale="1" dimension="0" posX="1001.2" posY="-2151.8999" posZ="12.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (sand_combush1) (3)" breakable="true" interior="0" alpha="255" model="864" doublesided="false" scale="1" dimension="0" posX="999" posY="-2152" posZ="12.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (sand_combush1) (4)" breakable="true" interior="0" alpha="255" model="864" doublesided="false" scale="1" dimension="0" posX="997.09998" posY="-2152" posZ="12.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_TV_TABLE2) (1)" breakable="true" interior="0" alpha="255" model="2311" doublesided="false" scale="1" dimension="0" posX="1003.1" posY="-2145.8999" posZ="12.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_TV_TABLE2) (2)" breakable="true" interior="0" alpha="255" model="2311" doublesided="false" scale="1" dimension="0" posX="1001.1" posY="-2142.1001" posZ="12.1" rotX="0" rotY="0" rotZ="296"></object>
+</map>
