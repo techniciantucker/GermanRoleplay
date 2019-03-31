@@ -105,7 +105,7 @@ bindKey("f3","down",function()
 					smoothMoveCamera(x1,y1,z1,x1t,y1t,z1t,x2,y2,z2,x2t,y2t,z2t,5000)
 						
 					setTimer(function()
-						slowDrawText("Wir bieten Boden, sowie Flugfahrzeuge an, welche die Fortbewegung,\nerheblich erleichtern.")
+						slowDrawText("Wir bieten Boden, sowie Flugfahrzeuge an, welche die Fortbewegung\nerheblich erleichtern.")
 						playSound("Intro/5.wav")
 					end,5500,1)
 					
