@@ -1,3 +1,6 @@
-# German Roleplay v.0.9.9 - Alpha
+# German Roleplay v.1.0.0
 
-Ein überarbeitetes und erweitertes Vio-Extended. Als Hauptstadt wurde Los Santos gewählt. Der Gamemode wird zurzeit restauriert, da der Code aufgrund meiner damals noch nicht so ausgereiften Fähigkeiten teilweise extrem schlecht ist.
+German Roleplay ist ein editiertes Vio-Extended von Xendom Rayden, welches in Los Santos spielt. Es ist zwischen Ende 2014 und Anfang 2016 entstanden.
+
+✖ Weiterentwicklung meinerseits eingestellt   
+✖ Support meinerseits eingestellt
