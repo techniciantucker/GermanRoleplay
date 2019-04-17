@@ -4,3 +4,5 @@ German Roleplay ist ein editiertes Vio-Extended von Xendom Rayden, welches in Lo
 
 ✖ Weiterentwicklung meinerseits eingestellt   
 ✖ Support meinerseits eingestellt
+
+Solltest Du den Gamemode erweitert oder einen Bug behoben haben, kannst du die neuen und oder überarbeiteten Dateien unter "pull requests" einreichen.
